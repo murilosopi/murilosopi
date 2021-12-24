@@ -1,7 +1,7 @@
-### Oi! Eu sou o Murilo Sopi, estudante e curioso pelo mundo da tecnologia 👋🤖
+### Hey! I am Murilo Sopi, a brazilian student and curious about the world of technology 👋🤖
 
-- 📚 Estou estudando JavaScript
-- 💻 Aprendizado focado em front-end
+- 📚 Currently, I am studying JavaScript
+- 💻 Front-end focused learning
 
 <div align="center">
   <a href="https://github.com/murilosopi">
