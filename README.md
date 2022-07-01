@@ -1,7 +1,7 @@
 ### Hey! I am Murilo Sopi, a brazilian student and curious about the world of technology 👋🤖
 
-- 📚 Currently, I am studying JavaScript
-- 💻 Front-end focused learning
+- 📚 Currently, I am studying JavaScript and PHP
+- 💻 Full-Stack focused learning
 
 <div align="center">
   <a href="https://github.com/murilosopi">
