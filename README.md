@@ -1,6 +1,11 @@
 ### Hey! I am Murilo Sopi, a brazilian student and curious about the world of technology 👋🤖
 
 - 💻 Full-Stack focused learning
+
+<div align="center">
+  <a href="https://github.com/murilosopi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilosopi&layout=compact&langs_count=7&theme=react"/>
+</div>
   
 <div style="display: inline_block" align="center"><br>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height"30"/>
